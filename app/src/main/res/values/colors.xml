@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tangniaobing_selector">#0ef1f2</color>
+    <color name="tangniaobing_nor">#0ef1c0</color>
+
+    <color name="gaoxueya_selector">#ffffff</color>
+    <color name="gaoxueya_nor">#fffedb</color>
+
+    <color name="huxi_selector">#258cf9</color>
+    <color name="huxi_nor">#258cc8</color>
+
+    <color name="guanxinbing_selector">#dc143c</color>
+    <color name="guanxinbing_nor">#dc1433</color>
+
+    <color name="all_selector">#ffe342</color>
+    <color name="all_nor">#ffee22</color>
+</resources>
